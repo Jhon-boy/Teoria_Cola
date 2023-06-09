@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Jhon-boy/Teoria_Cola.git/static/css/main.d5a82f76.chunk.css",
+    "main.js": "/Jhon-boy/Teoria_Cola.git/static/js/main.4261f2fc.chunk.js",
+    "main.js.map": "/Jhon-boy/Teoria_Cola.git/static/js/main.4261f2fc.chunk.js.map",
+    "runtime-main.js": "/Jhon-boy/Teoria_Cola.git/static/js/runtime-main.fe2bc4b1.js",
+    "runtime-main.js.map": "/Jhon-boy/Teoria_Cola.git/static/js/runtime-main.fe2bc4b1.js.map",
+    "static/js/2.0aadf58a.chunk.js": "/Jhon-boy/Teoria_Cola.git/static/js/2.0aadf58a.chunk.js",
+    "static/js/2.0aadf58a.chunk.js.map": "/Jhon-boy/Teoria_Cola.git/static/js/2.0aadf58a.chunk.js.map",
+    "static/js/3.ac6ec628.chunk.js": "/Jhon-boy/Teoria_Cola.git/static/js/3.ac6ec628.chunk.js",
+    "static/js/3.ac6ec628.chunk.js.map": "/Jhon-boy/Teoria_Cola.git/static/js/3.ac6ec628.chunk.js.map",
+    "index.html": "/Jhon-boy/Teoria_Cola.git/index.html",
+    "static/css/main.d5a82f76.chunk.css.map": "/Jhon-boy/Teoria_Cola.git/static/css/main.d5a82f76.chunk.css.map",
+    "static/js/2.0aadf58a.chunk.js.LICENSE.txt": "/Jhon-boy/Teoria_Cola.git/static/js/2.0aadf58a.chunk.js.LICENSE.txt",
+    "static/media/COLAS.2f9adea8.jpg": "/Jhon-boy/Teoria_Cola.git/static/media/COLAS.2f9adea8.jpg",
+    "static/media/FORMULAS_PFCM.2a43ac3f.jpg": "/Jhon-boy/Teoria_Cola.git/static/media/FORMULAS_PFCM.2a43ac3f.jpg",
+    "static/media/FORMULAS_PFCS.1a5a8372.jpg": "/Jhon-boy/Teoria_Cola.git/static/media/FORMULAS_PFCS.1a5a8372.jpg",
+    "static/media/FORMULAS_PICM.431fe070.jpg": "/Jhon-boy/Teoria_Cola.git/static/media/FORMULAS_PICM.431fe070.jpg",
+    "static/media/FORMULAS_PICS.891e63e7.jpg": "/Jhon-boy/Teoria_Cola.git/static/media/FORMULAS_PICS.891e63e7.jpg",
+    "static/media/PFCS.0e456a90.png": "/Jhon-boy/Teoria_Cola.git/static/media/PFCS.0e456a90.png",
+    "static/media/PICM.165b04b0.png": "/Jhon-boy/Teoria_Cola.git/static/media/PICM.165b04b0.png",
+    "static/media/PICS.812f53b9.png": "/Jhon-boy/Teoria_Cola.git/static/media/PICS.812f53b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe2bc4b1.js",
+    "static/js/2.0aadf58a.chunk.js",
+    "static/css/main.d5a82f76.chunk.css",
+    "static/js/main.4261f2fc.chunk.js"
+  ]
+}
